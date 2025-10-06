@@ -10,3 +10,5 @@ dags/model/*.sav
 dags/model/*.png
 dags/data/file.csv
 **/.DS_Store
+airflow_lab1/screenshots/*.png
+airflow_lab1/dags/data/file.csv

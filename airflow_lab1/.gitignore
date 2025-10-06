@@ -5,4 +5,6 @@ config/
 __pycache__/
 *.pyc
 dags/model/*.sav
-.DS_Store
+.DS_Storedags/data/file.csv
+dags/model/*.sav
+dags/model/*.png

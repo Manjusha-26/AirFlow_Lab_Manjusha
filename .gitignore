@@ -1,1 +1,14 @@
 .DS_Store
+logs/
+plugins/
+config/
+.env
+__pycache__/
+*.pyc
+dags/model/*.sav
+.DS_Storedags/data/file.csv
+dags/model/*.sav
+dags/model/*.png
+dags/data/file.csv
+**/.DS_Store
+airflow_lab1/screenshots/*.png
